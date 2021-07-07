@@ -1,7 +1,7 @@
 {
-  "name": "eth-marketplace",
+  "name": "eth-starter",
   "version": "0.1.0",
-  "description": "An Ethereum Marketplace",
+  "description": "starter kit with React and Solidity",
   "author": "gregory@dappuniversity.com",
   "dependencies": {
     "babel-polyfill": "6.26.0",
